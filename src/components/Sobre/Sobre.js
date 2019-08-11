@@ -12,9 +12,11 @@ function Sobre() {
           <span class="text-primary">Almeida</span>
         </h1>
         <div class="subheading mb-5">
-          Rua Passeio dos Ipês, 320 · Parque Faber, CEP 14815-000 · (16)
-          99415-9734 ·
-          <a href="mailto:name@email.com">victooralmeida1@gmail.com</a>
+          Rua Passeio dos Ipês, 350 ·Parque Faber Castell I, CEP 13561-385 ·
+          (16) 99415-9734 ·
+          <a href="mailto:victooralmeida1@gmail.com">
+            victooralmeida1@gmail.com
+          </a>
         </div>
         <p class="lead mb-5">
           2 anos de experiência na área de desenvolvimento de aplicativos
