@@ -11,6 +11,10 @@ export class Conquistas extends Component {
           <h2 className="mb-5">Conquistas &amp; Certificações</h2>
           <ul className="fa-ul mb-0">
             <li>
+              <i className="fa-li fa fa-trophy text-warning" />1<sup>ro</sup>{" "}
+              lugar - Campeão 1ª Copa Hagnos de Taekwondo 2018
+            </li>
+            <li>
               <i className="fa-li fa fa-trophy text-warning" />
               Udemy - Curso Completo do Desenvolvedor NodeJS e MongoDB 2018
             </li>
@@ -26,6 +30,14 @@ export class Conquistas extends Component {
             <li>
               <i className="fa-li fa fa-trophy text-warning" />
               Olimpíada Brasileira de Robótica - Juiz 2017
+            </li>
+            <li>
+              <i className="fa-li fa fa-trophy text-warning" />
+              Artes marciais - Graduação faixa verde (Sankyo) em Aikido
+            </li>
+            <li>
+              <i className="fa-li fa fa-trophy text-warning" />
+              Artes marciais - Graduação faixa laranja em Taekwondo
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning" />
