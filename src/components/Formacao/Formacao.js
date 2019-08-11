@@ -21,7 +21,7 @@ export class Formacao extends Component {
               {/* <p>GPA: 3.23</p> */}
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2006 - May 2010</span>
+              <span className="text-primary">Janeiro 2015 - Junho 2018</span>
             </div>
           </div>
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
