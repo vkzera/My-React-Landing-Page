@@ -4,21 +4,21 @@ class Navbar extends Component {
   render() {
     return (
       <nav
-        class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
+        className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
         id="sideNav"
       >
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">
-          <span class="d-block d-lg-none">Victor Almeida</span>
-          <span class="d-none d-lg-block">
+        <a className="navbar-brand js-scroll-trigger" href="#page-top">
+          <span className="d-block d-lg-none">Victor Almeida</span>
+          <span className="d-none d-lg-block">
             <img
-              class="img-fluid img-profile rounded-circle mx-auto mb-2"
+              className="img-fluid img-profile rounded-circle mx-auto mb-2"
               src="img/profile.jpg"
               alt=""
             />
           </span>
         </a>
         <button
-          class="navbar-toggler"
+          className="navbar-toggler"
           type="button"
           data-toggle="collapse"
           data-target="#navbarSupportedContent"
@@ -26,37 +26,37 @@ class Navbar extends Component {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span class="navbar-toggler-icon" />
+          <span className="navbar-toggler-icon" />
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">
+        <div className="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul className="navbar-nav">
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#about">
                 Sobre
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#experience">
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#experience">
                 Experiência
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#education">
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#education">
                 Formação
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#skills">
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#skills">
                 Habilidades
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#interests">
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#interests">
                 Interesses
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#awards">
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#awards">
                 Conquistas
               </a>
             </li>

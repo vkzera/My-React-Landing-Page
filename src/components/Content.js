@@ -9,25 +9,25 @@ import Conquistas from "./Conquistas";
 class Content extends Component {
   render() {
     return (
-      <div class="container-fluid p-0">
+      <div className="container-fluid p-0">
         <Sobre />
 
-        <hr class="m-0" />
+        <hr className="m-0" />
 
         <Experiencia />
-        <hr class="m-0" />
+        <hr className="m-0" />
 
         <Formacao />
 
-        <hr class="m-0" />
+        <hr className="m-0" />
 
         <Habilidades />
 
-        <hr class="m-0" />
+        <hr className="m-0" />
 
         <Interesses />
 
-        <hr class="m-0" />
+        <hr className="m-0" />
 
         <Conquistas />
       </div>
